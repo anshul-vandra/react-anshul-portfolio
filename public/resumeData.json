@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Anshul Vandra",
-    "description": "I am a web developer and I use reactJs to develop pages and reusable components. This project is my portfolio ",
+    "description": "I am a web developer and I use reactJs to develop pages and reusable components. This is my portfolio ",
     "image": "anshul_profilepic.jpg",
     "bio": "Hello folks , i'm Anshul Vandra , an aspiring full stack developer currently working as a reactJs developer and willing to get furthur opportunities to learn new technologies ",
     "contactmessage": "Mail me for any inquires",
@@ -129,12 +129,6 @@
         "url": "https://anshul-react-admin-panel.netlify.app/"
       },
       {
-        "title": "Vaccine Slot Tracker",
-        "category": "Personal",
-        "image": "vaccine-tracker.png",
-        "url": "https://anshul-react-vaccine-slot-tracker.netlify.app/"
-      },
-      {
         "title": "Expense Tracker",
         "category": "Personal",
         "image": "expense-tracker.png",
@@ -147,16 +141,22 @@
         "url": "https://anshul-react-e-commerce-landing.netlify.app/"
       },
       {
-        "title": "Shopping Cart",
+        "title": "Vaccine Slot Tracker",
         "category": "Personal",
-        "image": "shopping-cart.png",
-        "url": "https://anshul-react-shopping-cart.netlify.app/"
+        "image": "vaccine-tracker.png",
+        "url": "https://anshul-react-vaccine-slot-tracker.netlify.app/"
       },
       {
         "title": "Robo App",
         "category": "Personal",
         "image": "robo-app.png",
         "url": "https://anshul-react-robo-app.netlify.app/"
+      },
+      {
+        "title": "Shopping Cart",
+        "category": "Personal",
+        "image": "shopping-cart.png",
+        "url": "https://anshul-react-shopping-cart.netlify.app/"
       }
     ]
   }
