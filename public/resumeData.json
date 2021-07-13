@@ -123,6 +123,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Vaccine Slot Tracker",
+        "category": "Personal",
+        "image": "vaccine-tracker.png",
+        "url": "https://anshul-react-vaccine-slot-tracker.netlify.app/website/district"
+      },
+      {
         "title": "Expense Tracker",
         "category": "Personal",
         "image": "expense-tracker.png",
@@ -139,12 +145,6 @@
         "category": "Personal",
         "image": "robo-app.png",
         "url": "https://anshul-react-robo-app.netlify.app/"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
       }
     ]
   }
