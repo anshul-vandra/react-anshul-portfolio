@@ -123,6 +123,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Admin Panel Demo",
+        "category": "Personal",
+        "image": "admin-panel.png",
+        "url": "https://anshul-react-admin-panel.netlify.app/"
+      },
+      {
         "title": "Vaccine Slot Tracker",
         "category": "Personal",
         "image": "vaccine-tracker.png",
