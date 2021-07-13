@@ -135,6 +135,12 @@
         "url": "https://anshul-react-expense-tracker.netlify.app/"
       },
       {
+        "title": "E - commerce landing page",
+        "category": "Personal",
+        "image": "e-commerce.png",
+        "url": "https://anshul-react-e-commerce-landing.netlify.app/"
+      },
+      {
         "title": "Shopping Cart",
         "category": "Personal",
         "image": "shopping-cart.png",
