@@ -25,7 +25,7 @@ class Footer extends Component {
               <ul className="copyright">
                 <li>&copy; Copyright 2021 Anshul Vandra</li>
                 <li>
-                  Design by{" "}
+                  Developed by{" "}
                   <a title="anshul-portfoilo" href="/">
                     ANSHUL VANDRA
                   </a>
