@@ -1,0 +1,199 @@
+{
+  "main": {
+    "name": "Anshul Vandra",
+    "description": "I am a web developer and I use reactJs to develop pages and reusable components. This project is my portfolio ",
+    "image": "anshul_profilepic.jpg",
+    "bio": "Hello folks , i'm Anshul Vandra , an aspiring full stack developer currently working as a reactJs developer and willing to get furthur opportunities to learn new technologies ",
+    "contactmessage": "Mail me for any inquires",
+    "email": "anshulbv8@gmail.com",
+    "phone": "+91 8460171854",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Zanzarda road",
+      "city": "Junagadh",
+      "state": "Gujarat",
+      "zip": "362001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/Anshul_R_2021.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Management skills | Innovator |  Quick Learner  | Ambitious |",
+    "education": [
+      {
+        "school": "CCSIT - JUNAGADH (BKNMU)",
+        "degree": "BSC (IT)",
+        "graduated": "Mar 2020",
+        "description": "8.5 CGPA (AVG) DISTINCTION WITH A"
+      },
+      {
+        "school": "SWAMI VIVEKANAND HIGH SCHOOL - JUNAGADH (GSEB)",
+        "degree": "HSC (SCIENCE)",
+        "graduated": "March 2016",
+        "description": "72.90 PR"
+      },
+      {
+        "school": "BABY LAND HIGH SCHOOL - JUNAGADH (GSEB)",
+        "degree": "SSC",
+        "graduated": "March 2014",
+        "description": "89%  (99.15 PR)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Agile Infoways pvt ltd",
+        "title": "Jr. React Developer",
+        "years": "Nov 2020 - Current",
+        "description": "From the training time i had given live projects like admin panels (CMS) , and in the employment i got few big projects like e - commerce and health websites."
+      },
+      {
+        "company": "Agile Infoways pvt ltd",
+        "title": "React Trainee",
+        "years": "Aug 2020 - Nov 2020",
+        "description": "I got training on react js including all the important third party library like redux , react-router-dom , axios , redux-form etc."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React js , Redux , JSX , Axios , Redux-Form",
+        "level": "80%"
+      },
+      {
+        "name": "Reusable Components , Robust State Management",
+        "level": "80%"
+      },
+      {
+        "name": "Git , Npm , yarn , webpack",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "60%"
+      },
+      {
+        "name": "C , C++",
+        "level": "60%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "50%"
+      },
+      {
+        "name": "CSS3 , HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap , Core Ui",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
