@@ -83,7 +83,7 @@
     ],
     "skills": [
       {
-        "name": "React js , Redux , JSX , Axios , Redux-Form",
+        "name": "React js , Redux , JSX , Axios , Redux-Form , Formik",
         "level": "80%"
       },
       {
@@ -119,8 +119,8 @@
         "level": "60%"
       },
       {
-        "name": "Bootstrap , Core Ui",
-        "level": "70%"
+        "name": "Bootstrap , Core Ui , Material Ui",
+        "level": "60%"
       }
     ]
   },
