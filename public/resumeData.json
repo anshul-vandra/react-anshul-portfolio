@@ -127,6 +127,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "React Chat Application",
+        "category": "Personal",
+        "image": "chat-app.png",
+        "url": "https://react-chat-app-anshul.netlify.app/"
+      },
+      {
         "title": "Admin Panel Demo",
         "category": "Personal",
         "image": "admin-panel.png",
