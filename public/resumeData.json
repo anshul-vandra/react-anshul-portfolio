@@ -133,22 +133,10 @@
         "url": "https://react-chat-app-anshul.netlify.app/"
       },
       {
-        "title": "Admin Panel Demo",
-        "category": "Personal",
-        "image": "admin-panel.png",
-        "url": "https://anshul-react-admin-panel.netlify.app/"
-      },
-      {
         "title": "Expense Tracker",
         "category": "Personal",
         "image": "expense-tracker.png",
         "url": "https://anshul-react-expense-tracker.netlify.app/"
-      },
-      {
-        "title": "E - commerce landing page",
-        "category": "Personal",
-        "image": "e-commerce.png",
-        "url": "https://anshul-react-e-commerce-landing.netlify.app/"
       },
       {
         "title": "Vaccine Slot Tracker",
