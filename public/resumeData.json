@@ -127,10 +127,22 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Travel Guide App",
+        "category": "Personal",
+        "image": "travel-advisory.png",
+        "url": "https://react-chat-app-anshul.netlify.app/"
+      },
+      {
         "title": "React Chat Application",
         "category": "Personal",
         "image": "chat-app.png",
         "url": "https://react-chat-app-anshul.netlify.app/"
+      },
+      {
+        "title": "React Admin Panel",
+        "category": "Personal",
+        "image": "adin-panel.png",
+        "url": "https://anshul-react-admin-panel.netlify.app/"
       },
       {
         "title": "Expense Tracker",
